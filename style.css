@@ -1,0 +1,74 @@
+   .text
+      {
+        color: rgb(0, 0, 0);
+        margin-top:20px;
+      }
+      h1 
+      {
+        text-align: center;
+      }
+      .About2
+        {
+        color: rgb(11, 0, 110);
+        margin-top:20px;
+        
+      }
+   
+    
+
+       .jk1
+        {
+            background-color: blue;
+            width: 13em;
+            height: 13em;
+            margin: auto;
+            border-radius: 50%;
+            border-top: 1.5em solid red ;
+            border-bottom: 1.5em solid rgb(145, 255, 0);
+            border-left: 1.5em solid transparent;
+            border-right: 1.5em solid transparent;
+
+            animation: jk1 2s infinite ;
+
+        }
+   
+      @keyframes jk1
+      {
+        100%{transform: rotate(360deg);}
+      }
+      .table4
+      {
+
+        
+        padding: 90px;
+      }
+      .table
+    {
+      background-color: rgb(68, 248, 98);
+      
+       border-radius:10px;
+       
+       
+       margin:auto; 
+     
+    } 
+    table1 input
+    {
+     background-color: rgb(119, 175, 228);
+     color: rgb(0, 0, 0);
+     margin:5px ;
+    }
+    .radio{
+        background-color: black;
+    }
+    .hhh{
+        background-color: rgb(119, 175, 228);
+     color: rgb(0, 0, 0);
+    }
+     select{
+        background-color: rgb(15, 121, 219);
+    }
+   
+
+
+  
